@@ -8,6 +8,7 @@ This code consist of 3 parts.
 3. Adaptive weighting implementation in ViT (the saved_weights also uploaded)
 
 model weights is saved in h5 format
+
 Equal Weighting model: https://drive.google.com/file/d/1-6UoVmlL1cCBXIBF-QPBF82i6d3_1JiL/view?usp=sharing (for ViT_Fusion_Equal_Weighting)
 
 Adaptive Weighting model: https://drive.google.com/file/d/1-04DOPp9Vd1sqU13I6nn2p15-eY1OkIl/view?usp=sharing (for ViT_Fusion_AdaptiveWeighting)
