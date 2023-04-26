@@ -13,6 +13,10 @@ Equal Weighting model: https://drive.google.com/file/d/1-6UoVmlL1cCBXIBF-QPBF82i
 
 Adaptive Weighting model: https://drive.google.com/file/d/1-04DOPp9Vd1sqU13I6nn2p15-eY1OkIl/view?usp=sharing (for ViT_Fusion_AdaptiveWeighting)
 
+ViT inertial model: https://drive.google.com/file/d/1-0blbccvG6ni7Kur9wOfrV3ik6flETJj/view?usp=sharing
+
+ViT skeleton model: https://drive.google.com/file/d/1sEQZNOPcxbLq0TC8L7To9z_tmYm0KbyX/view?usp=share_link
+
 # UTD-MHAD dataset can download freely on https://personal.utdallas.edu/~kehtar/UTD-MHAD.html
 Reference: 
 UTD dataset: Chen, C., Yang, Y., & LaViola Jr, J. J. (2015). Muscle-actuated human simulation for musculoskeletal analysis. Proceedings of the IEEE Conference on Virtual Reality (VR), 307-308.
